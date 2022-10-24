@@ -45,7 +45,7 @@ public class Main {
         }
 
 
-        System.out.println("Χΰωε βρεγξ βρςπεχΰεςρÿ: " + maxResult + "\nΠεζε βρεγξ βρςπεχΰεςρÿ: " + minResult);
+        System.out.println("Π§Π°Ρ‰Πµ Π²ΡΠµΠ³ΠΎ Π²ΡΡ‚Ρ€ΠµΡ‡Π°ΠµΡ‚ΡΡ: " + maxResult + "\nΠ ΠµΠ¶Πµ Π²ΡΠµΠ³ΠΎ Π²ΡΡ‚Ρ€ΠµΡ‡Π°ΠµΡ‚ΡΡ: " + minResult);
 
     }
 }

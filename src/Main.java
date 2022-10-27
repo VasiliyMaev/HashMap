@@ -44,7 +44,7 @@ public class Main {
             }
         }
 
-
+        System.out.println("Hello world");
         System.out.println("Чаще всего встречается: " + maxResult + "\nРеже всего встречается: " + minResult);
 
     }

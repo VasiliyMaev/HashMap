@@ -44,7 +44,8 @@ public class Main {
             }
         }
 
-
+        System.out.println("Чаще всего встречается: " + maxResult + "\nРеже всего встречается: " + minResult);
+        System.out.println("Чаще всего встречается: " + maxResult + "\nРеже всего встречается: " + minResult);
         System.out.println("Чаще всего встречается: " + maxResult + "\nРеже всего встречается: " + minResult);
 
     }
